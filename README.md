@@ -4,13 +4,12 @@
 
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13PzZUJXsGWzJcIR5sQ5H0q4vr8vDESnh5Q&usqp=CAU" alt="sonalibhandare6612" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonalibhandare6612" alt="sonalibhandare6612" /></a> </p>
 
 - 🔭 I’m currently working on **Icecreme Parlour Website**
 
-- 🌱 I’m currently learning **Python django**
+- 🌱 I’m currently learning **django framework**
 
-- 💬 Ask me about **Python , Java, OOP ,SQL**
+- 💬 Ask me about **Python , Java, JavaScript, OOP ,SQL**
 
 - 📫 How to reach me **swapnalib1897@gmail.com**
 <body bg-dark>
